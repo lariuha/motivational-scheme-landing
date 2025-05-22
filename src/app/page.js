@@ -3,7 +3,7 @@ export default function Home() {
 <main className="min-h-screen bg-[#f8f8f8] text-[#333333] font-['Open Sans']">
       {/* Секция хедера */}
       <header className="bg-[#1E434C] bg-gradient-to-br from-[#1E434C] to-[#8D230F] text-white py-20 text-center shadow-lg">
-        <div className="container mx-auto px-5">
+        <div className="max-w-screen-lg mx-auto px-4 sm:px-6 lg:px-8">
           {/* Заголовок страницы */}
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold font-['Montserrat'] mb-4">МОТИВАЦИОННАЯ СХЕМА ДЛЯ АНАЛИТИКА ПО ТОВАРАМ В СНАБЖЕНИИ</h1>          {/* Подзаголовок */}
           <p className="text-xl md:text-2xl opacity-90">Находите маржинальные позиции и зарабатывайте!</p>
