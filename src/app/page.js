@@ -5,8 +5,7 @@ export default function Home() {
       <header className="bg-[#1E434C] bg-gradient-to-br from-[#1E434C] to-[#8D230F] text-white py-20 text-center shadow-lg">
         <div className="container mx-auto px-5">
           {/* Заголовок страницы */}
-          <h1 className="text-5xl md:text-6xl font-extrabold font-['Montserrat'] mb-4">МОТИВАЦИОННАЯ СХЕМА ДЛЯ АНАЛИТИКА ПО ТОВАРАМ В СНАБЖЕНИИ</h1>
-          {/* Подзаголовок */}
+          <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold font-['Montserrat'] mb-4">МОТИВАЦИОННАЯ СХЕМА ДЛЯ АНАЛИТИКА ПО ТОВАРАМ В СНАБЖЕНИИ</h1>          {/* Подзаголовок */}
           <p className="text-xl md:text-2xl opacity-90">Находите маржинальные позиции и зарабатывайте!</p>
         </div>
       </header>
