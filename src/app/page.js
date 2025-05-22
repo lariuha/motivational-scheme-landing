@@ -115,19 +115,19 @@ export default function Home() {
           {/* Контактные данные */}
           <address className="not-italic text-lg mb-10 space-y-4">
             <p><strong>Контактное лицо:</strong> Наталья</p>
-            <p><strong>Email:</strong> <a href="mailto:email@example.com" className="text-white hover:text-[#C99E10] font-semibold">ваша.почта@example.com</a></p>
-            <p><strong>Телефон:</strong> +7 (XXX) XXX-XX-XX</p>
-            <p><strong>Telegram:</strong> <a href="https://t.me/Natalia" target="_blank" rel="noopener noreferrer" className="text-white hover:text-[#C99E10] font-semibold">@Natalia</a></p>
+            <p><strong>Email:</strong> <a href="mailto:snabosb@gmail.com" className="text-white hover:text-[#C99E10] font-semibold">snabosb@gmail.com</a></p>
+            <p><strong>Телефон:</strong> +7 (812) 223-48-61</p>
+            <p><strong>Telegram:</strong> <a href="https://t.me/natagera0705" target="_blank" rel="noopener noreferrer" className="text-white hover:text-[#C99E10] font-semibold">@natagera0705</a></p>
           </address>
           {/* Кнопка призыва к действию */}
-          <a href="mailto:email@example.com" className="inline-block bg-[#C99E10] text-[#1E434C] py-4 px-8 rounded-lg font-bold text-lg uppercase shadow-lg hover:bg-[#9B4F0F] hover:text-white transition-colors duration-300">
+          <a href="mailto:snabosb@gmail.com" className="inline-block bg-[#C99E10] text-[#1E434C] py-4 px-8 rounded-lg font-bold text-lg uppercase shadow-lg hover:bg-[#9B4F0F] hover:text-white transition-colors duration-300">
             Написать нам на Email
           </a>
         </div>
       </section>
 
       {/* Секция футера */}
-      <footer className="bg-[#1E434C] text-gray-400 py-8 text-center text-sm rounded-t-lg">
+      <footer className="bg-[#1E434C] text-gray-400 py-8 text-center text-sm">
         <div className="container mx-auto px-5">
           <p>&copy; 2025 Все права защищены.</p>
         </div>
